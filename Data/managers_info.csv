@@ -1,0 +1,6 @@
+dept_no,dept_name,emp_no,first_name,last_name,from_date,to_date
+d003,Human Resources,110183,Shirish,Ossenbruggen,1985-01-01,1992-03-21
+d004,Production,110386,Shem,Kieras,1992-08-02,1996-08-30
+d007,Sales,111133,Hauke,Zhang,1991-03-07,9999-01-01
+d008,Research,111534,Hilary,Kambil,1991-04-08,9999-01-01
+d009,Customer Service,111692,Tonny,Butterworth,1985-01-01,1988-10-17
